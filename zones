@@ -1,0 +1,196 @@
+{
+  "categories": {
+    "wilderness00": {
+      "respawn": "5m 30s",
+      "zones": [
+        "West Ronfaure",
+        "East Ronfaure",
+        "La Theine Plateau",
+        "Valkurm Dunes",
+        "Jugner Forest",
+        "Batallia Downs",
+        "North Gustaberg",
+        "South Gustaberg",
+        "Konschtat Highlands",
+        "Pashhow Marshlands",
+        "Rolanberry Fields",
+        "Beaucedine Glacier",
+        "Xarcabard",
+        "West Sarutabaruta",
+        "East Sarutabaruta",
+        "Tahrongi Canyon",
+        "Buburimu Peninsula",
+        "Meriphataud Mountains",
+        "Sauromugue Champaign",
+        "The Sanctuary of Zi'Tah",
+        "Ro'Maeve"
+      ]
+    },
+    "wilderness01": {
+      "respawn": "5m 30s",
+      "zones": [
+        "Cape Teriggan",
+        "Eastern Altepa Desert",
+        "Yuhtunga Jungle",
+        "Yhoator Jungle",
+        "Western Altepa Desert"
+      ]
+    },
+    "wilderness02": {
+      "respawn": "5m 30s",
+      "zones": [
+        "Phanauet Channel",
+        "Carpenters Landing",
+        "Manaclipper",
+        "Bibiki Bay",
+        "Uleguerand Range",
+        "Lufaise Meadows",
+        "Misareaux Coast"
+      ]
+    },
+    "wilderness03": {
+      "respawn": "5m 30s",
+      "zones": [
+        "Wajaom Woodlands",
+        "Bhaflau Thickets",
+        "Mount Zhayolm",
+        "Aydeewa Subterrane",
+        "Leujaoam Sanctum",
+        "Caedarva Mire"
+      ]
+    },
+    "dungeon00": {
+      "respawn": "16m",
+      "zones": [
+        "Qufim Island",
+        "Behemoth's Dominion",
+        "Ghelsba Outpost",
+        "Fort Ghelsba",
+        "Yughott Grotto",
+        "Palborough Mines",
+        "Giddeus",
+        "Beadeaux",
+        "Qulun Dome",
+        "Davoi",
+        "Monastic Cavern",
+        "Castle Oztroja",
+        "Dragon's Aery",
+        "Middle Delkfutts Tower",
+        "Upper Delkfutts Tower",
+        "Castle Zvahl Baileys",
+        "Castle Zvahl Keep",
+        "Ranguemont Pass",
+        "Bostaunieux Oubliette",
+        "Zeruhn Mines",
+        "Lower Delkfutts Tower",
+        "King Ranperre's Tomb",
+        "Dangruf Wadi",
+        "Inner Horutoto Ruins",
+        "Ordelles Caves",
+        "Outer Horutoto Ruins",
+        "The Eldieme Necropolis",
+        "Gusgen Mines",
+        "Crawlers' Nest",
+        "Maze of Shakhrami",
+        "Garlaige Citadel",
+        "Fei'Yin"
+      ]
+    },
+    "dungeon01": {
+      "respawn": "16m",
+      "zones": [
+        "Valley of Sorrows",
+        "The Boyahda Tree",
+        "Temple of Uggalepih",
+        "Den of Rancor",
+        "Toraimarai Canal",
+        "Korroloka Tunnel",
+        "Kuftal Tunnel",
+        "Sea Serpent Grotto",
+        "Ifrit's Cauldron",
+        "Quicksand Caves",
+        "Gustav Tunnel",
+        "Labyrinth of Onzozo"
+      ]
+    },
+    "dungeon02": {
+      "respawn": "16m",
+      "zones": [
+        "Attohwa Chasm",
+        "Pso Xja",
+        "Oldton Movalpolos",
+        "Newton Movalpolos",
+        "Promyvion Holla",
+        "Promyvion Dem",
+        "Promyvion Mea",
+        "Promyvion Vahzl",
+        "Phomiuna Aqueducts",
+        "Sacrarium",
+        "Riverne Site B01",
+        "Riverne Site A01"
+      ]
+    },
+    "dungeon03": {
+      "respawn": "16m",
+      "zones": [
+        "Arrapago Reef",
+        "Ilrusi Atoll",
+        "Periqia",
+        "Halvung",
+        "Lebros Cavern",
+        "Mamook",
+        "Mamool Ja Training Grounds",
+        "Alzadaal Undersea Ruins",
+        "Nyzul Isle"
+      ]
+    },
+    "transport00": {
+      "respawn": "10m",
+      "zones": [
+        "Ship Bound for Selbina",
+        "Ship Bound for Mhaura",
+        "Ship Bound for Selbina Pirates",
+        "Ship Bound for Mhaura Pirates"
+      ]
+    },
+    "transport03": {
+      "respawn": "10m",
+      "zones": [
+        "Open Sea Route to Al Zahbi",
+        "Open Sea Route to Mhaura",
+        "Silver Sea Route to Nashmau",
+        "Silver Sea Route to Al Zahbi"
+      ]
+    },
+    "sea00": {
+      "respawn": "20m",
+      "zones": [
+        "Al Taieu",
+        "Grand Palace of Hu Xzoi",
+        "The Garden of Ru Hmet",
+        "Empyreal Paradox"
+      ]
+    },
+    "custom00": {
+      "respawn": "4m",
+      "zones": [
+        "Custom Zone Alpha",
+        "Custom Zone Beta"
+      ]
+    },
+    "custom01": {
+      "respawn": "12m",
+      "zones": [
+        "Custom Zone Gamma",
+        "Custom Zone Delta"
+      ]
+    },
+    "custom02": {
+      "respawn": "25m",
+      "zones": [
+        "Custom Zone Epsilon",
+        "Custom Zone Zeta"
+      ]
+    }
+  }
+}
