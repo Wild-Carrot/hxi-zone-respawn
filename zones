@@ -66,7 +66,6 @@
         "Behemoth's Dominion",
         "Ghelsba Outpost",
         "Fort Ghelsba",
-        "Yughott Grotto",
         "Palborough Mines",
         "Giddeus",
         "Beadeaux",
@@ -110,7 +109,8 @@
         "Ifrit's Cauldron",
         "Quicksand Caves",
         "Gustav Tunnel",
-        "Labyrinth of Onzozo"
+        "Labyrinth of Onzozo",
+        "Yughott Grotto"
       ]
     },
     "dungeon02": {
@@ -190,6 +190,12 @@
       "zones": [
         "Custom Zone Epsilon",
         "Custom Zone Zeta"
+      ]
+    },
+    "custom03": {
+      "respawn": "8m",
+      "zones": [
+        "Yughott Grotto"
       ]
     }
   }
